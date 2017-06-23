@@ -1,1 +1,1 @@
-# Site DSL script
+// Site DSL script
