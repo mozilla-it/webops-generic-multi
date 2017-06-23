@@ -1,6 +1,6 @@
 ---
-dpaste:
-  repo: "https://github.com/nubisproject/nubis-dpaste.git"
+skel:
+  repo: "https://github.com/nubisproject/nubis-skel.git"
 haul:
   repo: "https://github.com/gozer/haul.git"
 tlscanary:
