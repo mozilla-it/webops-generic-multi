@@ -1,4 +1,7 @@
 ---
-- dpaste
-- voice
-- haul
+dpaste:
+  repo: "https://github.com/nubisproject/nubis-dpaste.git"
+haul:
+  repo: "https://github.com/gozer/haul.git"
+tlscanary:
+  repo: "https://github.com/mozilla-it/nubis-tlscanary-mozilla-org.git"
