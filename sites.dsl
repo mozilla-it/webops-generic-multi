@@ -44,5 +44,8 @@ sites.each {
     triggers {
         scm("H/15 * * * *")
     }
+    publishers {
+        archiveArtifacts('artifacts/**')
+    }
   }
 }
