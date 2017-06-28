@@ -1,5 +1,9 @@
 ---
-skel:
-  repo: "https://github.com/nubisproject/nubis-skel.git"
-tlscanary:
-  repo: "https://github.com/mozilla-it/nubis-tlscanary-mozilla-org.git"
+iplimit:
+  repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
+plugindir:
+  repo: "https://github.com/danielhartnell/plugindir.git"
+wiki:
+  repo: "https://github.com/ziegeer/wiki.mozilla.org.git"
+pto:
+  repo: "https://github.com/fox2mike/oldpto.git"
