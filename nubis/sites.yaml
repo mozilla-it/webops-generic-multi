@@ -13,3 +13,5 @@ phonebook:
   repo: "https://github.com/mozilla-it/nubis-phonebook-mozilla-org.git"
 pastebin:
   repo: "https://github.com/mozilla-it/pastebin-mozilla-org.git"
+planet:
+  repo: "https://github.com/mozilla-it/nubis-planet-mozilla-org.git"
