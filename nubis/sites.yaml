@@ -1,7 +1,6 @@
 ---
 iplimit:
-#  repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
-  repo: "https://github.com/gozer/irc-iplimit.git"
+  repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
 plugindir:
   repo: "https://github.com/danielhartnell/plugindir.git"
 wiki:
