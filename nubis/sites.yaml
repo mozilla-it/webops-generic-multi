@@ -8,7 +8,7 @@ plugindir:
 wiki:
   repo: "https://github.com/ziegeer/wiki.mozilla.org.git"
 pto:
-  repo: "https://github.com/fox2mike/oldpto.git"
+  repo: "https://github.com/mozilla/oldpto.git"
 securitywiki:
   repo: "https://github.com/mozilla-it/nubis-securitywiki.git"
 phonebook:
