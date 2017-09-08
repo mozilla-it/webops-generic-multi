@@ -13,5 +13,3 @@ phonebook:
   repo: "https://github.com/mozilla-it/nubis-phonebook-mozilla-org.git"
 pastebin:
   repo: "https://github.com/mozilla-it/pastebin-mozilla-org.git"
-virtual-redirects:
-  repo: "https://github.com/mozilla-it/nubis-virtual-redirect.git"
