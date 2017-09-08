@@ -3,8 +3,6 @@ triagebot:
   repo: "https://github.com/mozilla-it/Canutist.git"
 iplimit:
   repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
-plugindir:
-  repo: "https://github.com/danielhartnell/plugindir.git"
 wiki:
   repo: "https://github.com/ziegeer/wiki.mozilla.org.git"
 pto:
@@ -15,3 +13,7 @@ phonebook:
   repo: "https://github.com/mozilla-it/nubis-phonebook-mozilla-org.git"
 pastebin:
   repo: "https://github.com/mozilla-it/pastebin-mozilla-org.git"
+plugindir:
+  repo: "https://github.com/danielhartnell/plugindir.git"
+planet:
+  repo: "https://github.com/mozilla-it/nubis-planet-mozilla-org.git"
