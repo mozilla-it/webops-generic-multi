@@ -4,7 +4,7 @@ triagebot:
 iplimit:
   repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
 wiki:
-  repo: "https://github.com/ziegeer/wiki.mozilla.org.git"
+  repo: "https://github.com/mozilla/wiki.mozilla.org.git"
 pto:
   repo: "https://github.com/mozilla/oldpto.git"
 securitywiki:
