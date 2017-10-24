@@ -15,3 +15,5 @@ pastebin:
   repo: "https://github.com/mozilla-it/pastebin-mozilla-org.git"
 plugindir:
   repo: "https://github.com/danielhartnell/plugindir.git"
+haul:
+  repo: "https://github.com/mozilla-it/haul.git"
