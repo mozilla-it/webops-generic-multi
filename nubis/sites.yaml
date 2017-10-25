@@ -2,7 +2,7 @@
 triagebot:
   repo: "https://github.com/mozilla-it/Canutist.git"
 iplimit:
-  repo: "https://github.com/sidler-mozilla/irc-iplimit.git"
+  repo: "https://github.com/mozilla-it/irc-iplimit.git"
 wiki:
   repo: "https://github.com/mozilla/wiki.mozilla.org.git"
 pto:
