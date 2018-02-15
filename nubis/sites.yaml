@@ -11,9 +11,5 @@ securitywiki:
   repo: "https://github.com/mozilla-it/nubis-securitywiki.git"
 phonebook:
   repo: "https://github.com/mozilla-it/nubis-phonebook-mozilla-org.git"
-pastebin:
-  repo: "https://github.com/mozilla-it/pastebin-mozilla-org.git"
-plugindir:
-  repo: "https://github.com/danielhartnell/plugindir.git"
 haul:
   repo: "https://github.com/mozilla-it/haul.git"
