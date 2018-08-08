@@ -5,12 +5,8 @@ iplimit:
   repo: "https://github.com/mozilla-it/irc-iplimit.git"
 wiki:
   repo: "https://github.com/mozilla/wiki.mozilla.org.git"
-pto:
-  repo: "https://github.com/mozilla/oldpto.git"
 securitywiki:
   repo: "https://github.com/mozilla-it/nubis-securitywiki.git"
-phonebook:
-  repo: "https://github.com/mozilla-it/nubis-phonebook-mozilla-org.git"
 haul:
   repo: "https://github.com/mozilla-it/haul.git"
 airmofront:
