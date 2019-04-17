@@ -10,4 +10,4 @@ securitywiki:
 haul:
   repo: "https://github.com/mozilla-it/haul.git"
 airmofront:
-  repo: "https://github.com/mozilla-itcloud/air.mozilla.org.git"
+  repo: "https://github.com/mozilla-it/air.mozilla.org.git"
