@@ -1,6 +1,4 @@
 ---
-triagebot:
-  repo: "https://github.com/mozilla-it/Canutist.git"
 iplimit:
   repo: "https://github.com/mozilla-it/irc-iplimit.git"
 wiki:
