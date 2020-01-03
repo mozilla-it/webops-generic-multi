@@ -1,6 +1,4 @@
 ---
-iplimit:
-  repo: "https://github.com/mozilla-it/irc-iplimit.git"
 wiki:
   repo: "https://github.com/mozilla/wiki.mozilla.org.git"
 securitywiki:
