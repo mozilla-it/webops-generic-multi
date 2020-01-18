@@ -5,5 +5,3 @@ securitywiki:
   repo: "https://github.com/mozilla-it/nubis-securitywiki.git"
 haul:
   repo: "https://github.com/mozilla-it/haul.git"
-airmofront:
-  repo: "https://github.com/mozilla-it/air.mozilla.org.git"
